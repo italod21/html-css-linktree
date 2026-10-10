@@ -54,4 +54,5 @@ a {
 
 a:hover {
     background-color: peru;
+    transition-duration: 800ms;
 }
