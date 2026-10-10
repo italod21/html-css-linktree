@@ -51,3 +51,7 @@ a {
     color: gainsboro;
     text-decoration: none;
 }
+
+a:hover {
+    background-color: peru;
+}
