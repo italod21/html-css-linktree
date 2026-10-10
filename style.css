@@ -6,4 +6,48 @@
 
 body {
     background-color: darkolivegreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.content {
+    background-color: gainsboro;
+    width: 400px;
+    border-radius: 20px;
+    color: darkolivegreen;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    
+}
+
+.photo {
+    width: 120px;
+    border-radius: 60px;
+}
+
+ul {
+    margin-top: 15px;
+    width: 100%;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+a {
+    background-color: rgb(145, 90, 35);
+    width: 100%;
+    display: block;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    color: gainsboro;
+    text-decoration: none;
 }
