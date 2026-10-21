@@ -42,7 +42,7 @@ li {
 }
 
 a {
-    background-color: rgb(145, 90, 35);
+    background-color:goldenrod;
     width: 100%;
     display: block;
     line-height: 40px;
@@ -53,6 +53,6 @@ a {
 }
 
 a:hover {
-    background-color: peru;
+    background-color:slategrey;
     transition-duration: 800ms;
 }
